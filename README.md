@@ -103,8 +103,6 @@ If there are any chart types you’d like to see added, feel free to open an iss
 
 ## Contact
 
-If the library makes its way into any of your own wireframes, I’d love to see where it ends up.
-
 You can find me here:
 
 * Website: [datavizfairy.co.uk](https://datavizfairy.co.uk/)
