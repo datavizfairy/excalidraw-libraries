@@ -68,18 +68,9 @@ The library includes reusable components for:
 
 You are welcome to use this library for your own wireframing, dashboard planning, and internal design work.
 
-Please do not:
+Please do not resell, repackage, redistribute, or claim the library as your own.
 
-* Resell the library
-* Repackage it as your own resource
-* Upload it elsewhere as a separate downloadable library
-* Claim the components as your own
-
-If you share work publicly that uses the library, credit is appreciated:
-
-Created by **Data Viz Fairy / Shreya Arya**
-
-This project is shared under the licence included in this repository. Please check the `LICENSE` file before using, modifying, or sharing the library.
+This project is licensed under **CC BY-NC-ND 4.0**. See the [LICENSE.md](./LICENSE.md) file for full terms.
 
 <br>
 
