@@ -76,7 +76,7 @@ This project is licensed under **CC BY-NC-ND 4.0**. See the [LICENSE.md](./LICEN
 
 ## AI-assisted build
 
-This was an interesting example of using AI to optimise ways of working. What started as a slow manual build became a much faster, more repeatable process, while still keeping the final library aligned with my own wireframing style.
+This was an interesting use case for using AI to optimise ways of working. What started as a slow manual build became a much faster, more repeatable process, while still keeping the final library aligned with my own wireframing style.
 
 Claude helped with generating the Excalidraw file structure, while I guided the chart choices and final output.
 
