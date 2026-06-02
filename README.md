@@ -37,7 +37,7 @@ Use it to quickly sketch dashboard ideas before moving into a full build. Once i
 
 ## Quick start
 
-1. Get the library file: [`datavizfairy-chart-library.excalidrawlib`](./datavizfairy-chart-library.excalidrawlib)
+1. Download the library file: [`datavizfairy-chart-library.excalidrawlib`](./datavizfairy-chart-library.excalidrawlib)
 2. Open [Excalidraw](https://excalidraw.com/)
 3. Open the Library panel
 4. Click the three dots menu
