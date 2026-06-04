@@ -92,6 +92,7 @@ Current version: `v1.1`
 - Improved marker grouping for easier editing
 
 **v1.0** — initial release
+<br><br>
 
 I’ll keep updating the file as I add new chart types and improve the library.
 
