@@ -84,7 +84,14 @@ Claude helped with generating the Excalidraw file structure, while I guided the 
 
 ## Updates and suggestions
 
-Current version: `v1.0`
+Current version: `v1.1`
+
+**v1.1** — 4th June 2026
+- Added 6 new chart types: barbell, radar, stacked area, 100% stacked area, treemap (single hue), weekly heatmap
+- Converted line and bump chart segments to continuous paths
+- Improved marker grouping for easier editing
+
+**v1.0** — initial release
 
 I’ll keep updating the file as I add new chart types and improve the library.
 
